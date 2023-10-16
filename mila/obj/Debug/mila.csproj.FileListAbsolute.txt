@@ -1,0 +1,11 @@
+D:\csh mod 8\other\mila\bin\Debug\mila.exe.config
+D:\csh mod 8\other\mila\bin\Debug\mila.exe
+D:\csh mod 8\other\mila\bin\Debug\mila.pdb
+D:\csh mod 8\other\mila\obj\Debug\mila.csproj.AssemblyReference.cache
+D:\csh mod 8\other\mila\obj\Debug\mila.csproj.SuggestedBindingRedirects.cache
+D:\csh mod 8\other\mila\obj\Debug\mila.Form1.resources
+D:\csh mod 8\other\mila\obj\Debug\mila.Properties.Resources.resources
+D:\csh mod 8\other\mila\obj\Debug\mila.csproj.GenerateResource.cache
+D:\csh mod 8\other\mila\obj\Debug\mila.csproj.CoreCompileInputs.cache
+D:\csh mod 8\other\mila\obj\Debug\mila.exe
+D:\csh mod 8\other\mila\obj\Debug\mila.pdb

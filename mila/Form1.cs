@@ -23,9 +23,9 @@ namespace mila
           
                 bool a1, b1, c1;
                 long a, b, c;
-                a1 = long.TryParse(maskedTextBox1.Text, out a);
-                b1 = long.TryParse(maskedTextBox2.Text, out b);
-                c1 = long.TryParse(maskedTextBox3.Text, out c);
+                a1 = long.TryParse(textBox1.Text, out a);
+                b1 = long.TryParse(textBox2.Text, out b);
+                c1 = long.TryParse(textBox3.Text, out c);
                 if ((a1 && b1 && c1) == true)
                 {
                     if (a < 1 || b < 1 || c < 1)
